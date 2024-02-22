@@ -19,6 +19,7 @@ closeMenu.addEventListener('click', () => {
 
     setTimeout(() => {
         menu.removeAttribute('style')
+        openMenu.removeAttribute('style')
     }, 200)
     
 })
