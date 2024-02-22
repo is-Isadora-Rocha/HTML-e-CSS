@@ -1,4 +1,3 @@
-import './style.css';
 
 openMenu.addEventListener('click', () => {
     menu.style.display = 'flex'
